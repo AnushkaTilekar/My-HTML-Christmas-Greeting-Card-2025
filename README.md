@@ -1,3 +1,5 @@
+🛑 Kindly Note:
+
 # Image Repository
 
 ## Copyright Notice
@@ -15,6 +17,9 @@ These images or files should not be copied, modified, redistributed, reproduced,
 
 Unauthorized use is prohibited.
 
+Thank you for respecting the Copyright.
+
+🛑🛑🛑
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
